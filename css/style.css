@@ -152,14 +152,14 @@ section ul li:before {
 	border-color: rgba(255,255,255,.02)
 }
 .navbar-default .navbar-toggle {
-	background-color: #129E3F;
-	border-color: #129E3F
+	background-color: #ffffff;
+	border-color: #ccc
 }
 .navbar-default .navbar-toggle .icon-bar {
-	background-color: #fff
+	background-color: #ccc
 }
 .navbar-default .navbar-toggle:hover,.navbar-default .navbar-toggle:focus {
-	background-color: #129E3F
+	background-color: #eee
 }
 .navbar-default .nav li a {
 	font-family: "Open Sans",sans-serif;
@@ -262,10 +262,10 @@ header {
 }
 
 .intro-text {
-	padding-top: 100px;
+	padding-top: 20px;
 	padding-bottom: 50px;
 	position: absolute;
-	top: 50px;
+	top: 0px;
     text-align: center;
 	transform: translateX(-50%);
 	left: 50%;
@@ -280,7 +280,6 @@ header {
 
 .intro-text .intro-lead-in {
 	display: inline-block;
-	margin-bottom: 25px;
 	padding: 4px 20px;
 	font-family: "Open Sans",sans-serif;
 	font-size: 19px;
@@ -352,47 +351,7 @@ header {
 	font-size: 18px;
 	font-weight: 300;
 	line-height: 31px;
-	margin: 20px 100px 60px 100px;
-}
-
-/*--------------------
-4.1. CTA sectoin
---------------------*/
-
-.section-cta {
-	padding: 40px 0;
-	color: #fff;
-	background-color: #42B36C;
-}
-
-.section-cta h2 {
-	color: #fff;
-	font-size: 23px;
-	font-weight: 300;
-	margin: 0 0 20px;
-}
-
-.button-cta {
-	border: 2px solid #fff;
-	padding: 10px 50px;
-	font-size: 16px;
-	letter-spacing: 1.5px;
-	text-transform: uppercase;
-	font-weight: 800;
-	color: #fff;
-	display: inline-block;
-
-	-webkit-transition: all .4s ease; /* Safari and Chrome */
-	-moz-transition: all .5s ease; /* Firefox */
-	-o-transition: all .5s ease; /* IE 9 */
-	-ms-transition: all .5s ease; /* Opera */
-	transition: all .5s ease;
-
-}
-.button-cta:hover {
-	color: #000;
-	background-color: #fff;	
-	text-decoration: none;
+	margin: 20px 5% 60px 5%;
 }
 
 /*--------------------

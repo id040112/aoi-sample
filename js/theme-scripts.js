@@ -23,7 +23,7 @@ $(function() {
 });
 
 // Owl carousel
-$('.owl-acumox').owlCarousel({
+$('.owl-partners').owlCarousel({
     loop:true,
     margin:10,
     nav:false,

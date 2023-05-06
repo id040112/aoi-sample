@@ -1,0 +1,14 @@
+.footer-button {
+	display: inline-block;
+	height: 36px;
+	width: 116px;
+	padding: 7px;
+	border-radius: 3px;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.button-call-phone {
+    background-color:rgb(254, 204, 0);
+	color:#ffffff;
+}

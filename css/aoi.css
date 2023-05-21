@@ -1,3 +1,31 @@
+/*--------------------
+menu
+--------------------*/
+
+.menu-button {
+	display: inline-block;
+	height: 36px;
+	width: 116px;
+	padding: 7px;
+	border-radius: 58px;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.button-health-menu {
+    background-color:rgb(77, 211, 86);
+	color:#ffffff;
+}
+
+.button-beauty-menu {
+    background-color:rgb(254, 204, 0);
+	color:#ffffff;
+}
+
+/*--------------------
+footer
+--------------------*/
+
 .footer-button {
 	display: inline-block;
 	height: 36px;

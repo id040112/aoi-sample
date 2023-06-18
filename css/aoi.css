@@ -40,3 +40,16 @@ footer
     background-color:rgb(254, 204, 0);
 	color:#ffffff;
 }
+
+.table-td-h4 {
+	color: #47474C;
+    font-size: 17px;
+    font-weight: 700;
+}
+
+.table-td-p {
+	color:#747377;
+	font-size: 10px;
+	line-height: 21px;
+	font-weight: 500;
+}
